@@ -1,13 +1,12 @@
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
-
 ## Table of contents
 
-* [Import 3dParty](#build-your-own-3d-renderer)
+* [3D Renderer](#build-your-own-3d-renderer)
 * [Uncategorized](#uncategorized)
+* [Imports](#build-your-own-imports-3rdparty)
 
 ## Tutorials
 
-#### Build your own `Import 3dParty`
+#### Build your own `3D Renderer`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
@@ -16,12 +15,7 @@
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
-## How to contribute
+#### Build your own `Import 3rdParty`
+* [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
 
-Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.
+#### Build your own `Uncategorized`
