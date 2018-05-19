@@ -2,7 +2,7 @@
 
 * [3D Renderer](#3d-renderer)
 * [Uncategorized](#uncategorized)
-* [Imports](#import-3rdparty)
+* [Import 3rdParty](#import-3rdparty)
 
 ## Tutorials
 
@@ -17,5 +17,6 @@
 
 #### `Uncategorized`
 
-#### `Import 3rdParty`
 * [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
+
+
