@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-* [Reference](#build-your-own-3d-renderer)
+* [Import 3dParty](#build-your-own-3d-renderer)
 * [Uncategorized](#uncategorized)
 
 ## Tutorials
 
-#### Build your own `3D Renderer`
+#### Build your own `Import 3dParty`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
