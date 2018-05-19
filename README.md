@@ -1,12 +1,12 @@
 ## Table of contents
 
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Uncategorized](#build-your-own-3d-uncategorized)
-* [Imports](#build-your-own-import-3rdparty)
+* [3D Renderer](#3d-renderer)
+* [Uncategorized](#uncategorized)
+* [Imports](#import-3rdparty)
 
 ## Tutorials
 
-#### Build your own `3D Renderer`
+#### `3D Renderer`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
@@ -15,7 +15,7 @@
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
-#### Build your own `Import 3rdParty`
+#### `Import 3rdParty`
 * [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
 
-#### Build your own `Uncategorized`
+#### `Uncategorized`
