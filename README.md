@@ -15,7 +15,7 @@
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
+#### `Uncategorized`
+
 #### `Import 3rdParty`
 * [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
-
-#### `Uncategorized`
