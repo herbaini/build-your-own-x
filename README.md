@@ -17,7 +17,7 @@
 
 #### `Uncategorized`
 
-#### `Import 3rdParty`
+#### Import 3rdParty
 * [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
 
 
