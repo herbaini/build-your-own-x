@@ -1,8 +1,8 @@
 ## Table of contents
 
 * [3D Renderer](#build-your-own-3d-renderer)
-* [Uncategorized](#uncategorized)
-* [Imports](#build-your-own-imports-3rdparty)
+* [Uncategorized](#build-your-own-3d-uncategorized)
+* [Imports](#build-your-own-import-3rdparty)
 
 ## Tutorials
 
