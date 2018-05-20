@@ -9,6 +9,7 @@
 
 #### `WebSites`
 * [**Android 设计模式**: _ViewModel 和 LiveData：为设计模式打 Call 还是唱反调？_](https://juejin.im/post/5a040585f265da43346f5d57)
+* [**Android 设计模式**: _Clean Architecture_](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
 
