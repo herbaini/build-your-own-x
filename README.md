@@ -1,11 +1,17 @@
 ## Table of contents
 
+* [Utility](#utility)
 * [WebSites](#websites)
 * [Code](#code)
 * [Uncategorized](#uncategorized)
 * [Import 3rdParty](#github)
 
 ## Tutorials
+
+#### `Utility`
+* [**Android**: adb can not found device_](https://www.linuxquestions.org/questions/ubuntu-63/ubuntu-connect-to-android-with-adb-cannot-see-it-please-help-942129/
+)
+
 
 #### `WebSites`
 * [**Android 设计模式**: _ViewModel 和 LiveData：为设计模式打 Call 还是唱反调？_](https://juejin.im/post/5a040585f265da43346f5d57)
