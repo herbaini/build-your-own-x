@@ -9,7 +9,7 @@
 ## Tutorials
 
 #### `Utility`
-* [**Android**: adb can not found device_](https://www.linuxquestions.org/questions/ubuntu-63/ubuntu-connect-to-android-with-adb-cannot-see-it-please-help-942129/
+* [**Android**: _adb can not found device_](https://www.linuxquestions.org/questions/ubuntu-63/ubuntu-connect-to-android-with-adb-cannot-see-it-please-help-942129/
 )
 
 
