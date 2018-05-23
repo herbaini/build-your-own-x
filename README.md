@@ -29,3 +29,4 @@
 * [**github**: _Build your own x_](https://github.com/danistefanovic/build-your-own-x)
 * [**github**: _后端架构师技术图谱_](https://github.com/xingshaocheng/architect-awesome)
 * [**github**: _掘金翻译计划_](https://github.com/xitu/gold-miner)
+* [**github**: _CppCoreGuidelines_](https://github.com/isocpp/CppCoreGuidelines)
