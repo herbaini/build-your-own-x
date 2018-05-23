@@ -25,7 +25,7 @@
 2.  检查ADB设备是否找到（命令行程序中）
     adb kill-server
     adb devices
-　　
+
 三、Windows 7中文环境
 1.  建立或修改C:\用户\<你的用户名>\.android\adb_usb.ini文件，在该文件中添加一行文本，内容是0x2a45。
 
