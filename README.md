@@ -1,8 +1,8 @@
 ## Table of contents
 
 * [Utility](#utility)
-* [Architecture Design](#Architecture)
-* [Grapics](#Grapics)
+* [Architecture Design](#architecture)
+* [Grapics](#grapics)
 * [Uncategorized](#uncategorized)
 * [Import 3rdParty](#github)
 
