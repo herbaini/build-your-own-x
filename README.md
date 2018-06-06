@@ -2,7 +2,7 @@
 
 * [Utility](#utility)
 * [Architecture Design](#Architecture)
-* [Media and Grapics](#Media and Grapics)
+* [Grapics](#Grapics)
 * [Uncategorized](#uncategorized)
 * [Import 3rdParty](#github)
 
@@ -22,7 +22,7 @@
 #### `Uncategorized`
 
 
-#### `Media and Grapics`
+#### `Grapics`
 * [**opengl**: _矩阵变换_](http://zhangwenli.com/blog/2015/08/28/opengl-matrix-transformations/)
 
 #### `GitHub`
