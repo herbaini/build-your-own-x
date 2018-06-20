@@ -35,4 +35,4 @@
 * [**github**: _awesome-cpp_](https://github.com/fffaraz/awesome-cpp)
 
 #### `Android`
-* [**blog**: _深入理解Android_](blog.csdn.net/innost)
+* [**blog**: _深入理解Android_](https://blog.csdn.net/innost)
