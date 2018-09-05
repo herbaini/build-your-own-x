@@ -32,6 +32,8 @@
 * [**github**: _掘金翻译计划_](https://github.com/xitu/gold-miner)
 * [**github**: _CppCoreGuidelines_](https://github.com/isocpp/CppCoreGuidelines)
 * [**github**: _awesome-cpp_](https://github.com/fffaraz/awesome-cpp)
+* [**github**: _android_guides_](https://github.com/codepath/android_guides)
+* [**github**: _android-best-practices_](https://github.com/futurice/android-best-practices)
 
 ### `Android`
 
