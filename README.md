@@ -39,6 +39,8 @@
 
 * [**blog**: _深入理解Android_](https://blog.csdn.net/innost)
 * [**blog**: _屏幕适配_](https://www.jianshu.com/p/ec5a1a30694b)
+* [**blog**: _切图规范_](https://blog.csdn.net/klxh2009/article/details/74938009)
+
 
 
 ### `Uncategorized`
