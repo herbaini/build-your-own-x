@@ -23,6 +23,7 @@
 
 * [**opengl**: _矩阵变换_](http://zhangwenli.com/blog/2015/08/28/opengl-matrix-transformations/)
 * [**opengl**: _android 引擎_](https://blog.csdn.net/luofeixiongsix/article/details/72461391/)
+* [**MultiMedia**: _mediastreamer2_](https://gitlab.linphone.org/BC/public/mediastreamer2/)
 
 ### `GitHub`
 
@@ -31,6 +32,8 @@
 * [**github**: _掘金翻译计划_](https://github.com/xitu/gold-miner)
 * [**github**: _CppCoreGuidelines_](https://github.com/isocpp/CppCoreGuidelines)
 * [**github**: _awesome-cpp_](https://github.com/fffaraz/awesome-cpp)
+* [**github**: _android_guides_](https://github.com/codepath/android_guides)
+* [**github**: _android-best-practices_](https://github.com/futurice/android-best-practices)
 
 ### `Android`
 
