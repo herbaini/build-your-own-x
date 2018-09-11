@@ -35,6 +35,8 @@
 ### `Android`
 
 * [**blog**: _深入理解Android_](https://blog.csdn.net/innost)
+* [**blog**: _屏幕适配_](https://www.jianshu.com/p/ec5a1a30694b)
+
 
 ### `Uncategorized`
 
