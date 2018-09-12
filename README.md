@@ -42,7 +42,7 @@
 * [**blog**: _切图规范_](https://blog.csdn.net/klxh2009/article/details/74938009)
 * [**blog**: _切图规范_](https://www.jianshu.com/p/bdb43215772e)
 * [**blog**: _切图规范_](http://www.ui.cn/detail/79573.html)
-
+* [**blog**: _切图规范_](https://blog.csdn.net/qq_32506555/article/details/78095860)
 
 ### `Uncategorized`
 
