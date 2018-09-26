@@ -34,6 +34,7 @@
 * [**github**: _awesome-cpp_](https://github.com/fffaraz/awesome-cpp)
 * [**github**: _android_guides_](https://github.com/codepath/android_guides)
 * [**github**: _android-best-practices_](https://github.com/futurice/android-best-practices)
+* [**github**: _android controls_](https://github.com/opendigg/awesome-github-android-ui)
 
 ### `Android`
 
@@ -48,3 +49,4 @@
 
 * [**build**: _cmake_](https://gitlab.kitware.com/cmake/community/wikis/home)
 * [**Code Style**: _(微软一站式代码示例)编程规范_](https://wenku.baidu.com/view/aa04c1405022aaea988f0f55.html)
+* [**network**: netlink](http://blog.jobbole.com/104334/)
