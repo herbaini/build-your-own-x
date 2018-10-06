@@ -34,6 +34,7 @@
 * [**github**: _awesome-cpp_](https://github.com/fffaraz/awesome-cpp)
 * [**github**: _android_guides_](https://github.com/codepath/android_guides)
 * [**github**: _android-best-practices_](https://github.com/futurice/android-best-practices)
+* [**github**: _CS-Notes_](https://github.com/CyC2018/CS-Notes)
 
 ### `Android`
 
